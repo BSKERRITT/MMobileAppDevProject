@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Saddle Up</string>
+    <string name="lessonButton">Lesson Times</string>
+    <string name="ridersButton">Riders</string>
+    <string name="activityButton">Activities</string>
+    <string name="lessonTimesTitle">Lesson Times</string>
+    <string name="addLessonTimesBtn">Add Lesson</string>
+    <string name="riderTitle">Rider</string>
+    <string name="timeTitle">Time</string>
+    <string name="dateTitle">Date</string>
+    <string name="horseTitle">Horse</string>
+    <string name="riderName">Lily Skerritt</string>
+    <string name="riderAge">Age: 7</string>
+    <string name="riderHorse">Horse: Jack</string>
+    <string name="addRider">Add Rider</string>
+    <string name="riderHead">Rider List</string>
+    <string name="addRiderBtn">Add Rider</string>
+    <string name="riderActivities">Rider Activities</string>
+</resources>
